@@ -1,4 +1,4 @@
-# 마름모
+# format
 
 for i in range(1, 5, 2):
     print('{:^10}'.format('*' * i))
